@@ -10,11 +10,14 @@ sale,
 vino bianco;
 
 Per il ripieno,
+
 6 etti ricotta,
 3 etti zucchero,
 1 cucchiaio acqua di fiori d'arancio,
 60 grammi scorza d'arancia candita,
 60 grammi cioccolato amaro;
+=======
+
 
 4 bustina zucchero a velo,
 olio o strutto.
